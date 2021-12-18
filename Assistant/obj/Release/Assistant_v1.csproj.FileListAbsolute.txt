@@ -1,0 +1,16 @@
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\bin\Release\Assistant_v1.exe.config
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\bin\Release\Assistant_v1.exe
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\bin\Release\Assistant_v1.pdb
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\bin\Release\Microsoft.Speech.dll
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\bin\Release\Newtonsoft.Json.dll
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\bin\Release\Newtonsoft.Json.xml
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\obj\Release\Assistant_v1.csprojAssemblyReference.cache
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\obj\Release\Assistant.Main.resources
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\obj\Release\Assistant_v1.Properties.Resources.resources
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\obj\Release\Assistant.Report.resources
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\obj\Release\Assistant_v1.csproj.GenerateResource.cache
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\obj\Release\Assistant_v1.csproj.CoreCompileInputs.cache
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\obj\Release\Assistant_v1.csproj.CopyComplete
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\obj\Release\Assistant_v1.exe
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\obj\Release\Assistant_v1.pdb

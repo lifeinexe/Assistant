@@ -1,0 +1,14 @@
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\bin\Debug\Microsoft.Speech.dll
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\obj\Debug\Assistant.csprojAssemblyReference.cache
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\obj\Debug\Assistant.csproj.GenerateResource.cache
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\obj\Debug\Assistant.csproj.CoreCompileInputs.cache
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\obj\Debug\Assistant.csproj.CopyComplete
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\obj\Debug\Assistant.Main.resources
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\obj\Debug\Assistant.Report.resources
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\bin\Debug\Assistant_v1.exe.config
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\bin\Debug\Assistant_v1.exe
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\bin\Debug\Assistant_v1.pdb
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\obj\Debug\Assistant_v1.Properties.Resources.resources
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\obj\Debug\Assistant_v1.exe
+C:\Users\lifeinexe\source\repos\Assistant\Assistant\obj\Debug\Assistant_v1.pdb
